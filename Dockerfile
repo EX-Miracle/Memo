@@ -1,1 +1,1 @@
-FROM usememos/memos
+FROM binwiederhier/ntfy
